@@ -62,7 +62,6 @@ Karyawan yang keluar cenderung memiliki umur yang muda dan belum menikah, memili
 ### Rekomendasi Action Items
 Berikut adalah rekomendasi yang dapat dilakukan perusahaan Jaya Jaya Maju untuk mengurangi tingkat attrition:
 
-```
 1. BusinessTravel:
 
     Evaluasi kebutuhan BusinessTravel secara rutin dan pertimbangkan alternatif seperti remote work untuk mengurangi beban perjalanan yang dapat mempengaruhi kepuasan karyawan.
@@ -99,7 +98,6 @@ Berikut adalah rekomendasi yang dapat dilakukan perusahaan Jaya Jaya Maju untuk 
 12. Training and Career Development:
 
     Tingkatkan investasi dalam pelatihan dan pengembangan karir. Pastikan setiap karyawan memiliki akses yang setara terhadap peluang pengembangan yang dapat meningkatkan keterlibatan dan retensi.
-```
 
 ## Email dan password Metabase
 Email: root@mail.com
